@@ -43,4 +43,4 @@ Emitting an INFRARED signals, injected into an IR LED, by the robot's microcontr
 This is probably one of the best projects that I have made part of. Unfortunately, due to covid and access restrictions in our university, we were not able to complete all the project's components, but we have made big progress on it.  
 
 
-if you have any questions about this repo, feel free to contact me at my email adress:  zahrahafidabenslimane@gmail.com
+if you have any questions about this repo, feel free to contact me at my email adress:  zahrahafida.benslimane@gmail.com
