@@ -27,4 +27,9 @@ I was the project learder of 5 teamates and my role was :
     * Emission d’une trame IR par le Microcontrôleur basé sur le robot (injectée dans une LED IR) représentant des codes sur 20 bits (numéro robot, vitesse..).
 Robot - Workstation Communication: INFRARED
 
-Emitting an INFRARED signals, injected into an IR LED, by the robot's microcontroller representing codes on 20 bits (robot number, speed, etc.).
+Emitting an INFRARED signals, injected into an IR LED, by the robot's microcontroller representing codes on 20 bits (robot number, speed, etc.)
+
+#### Delivery System
+
+![alt text](http://url/to/img.png)
+
