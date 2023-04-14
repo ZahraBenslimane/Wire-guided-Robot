@@ -33,7 +33,8 @@ Emitting an INFRARED signals, injected into an IR LED, by the robot's microcontr
 
 <img src="Images/robot-system.jpeg" width="880" height="690">
 
+#### Our baby robot in early stages
+<img src="Images/robot.jpg" width="350" height="350">
 
-#### Some project images.
+#### Me in the lab haha
 <img src="Images/Lab.jpg" width="350" height="350">
-
