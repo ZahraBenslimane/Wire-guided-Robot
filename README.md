@@ -3,7 +3,7 @@ Design and construction of a wire guided delivery robot
 
 A wire guired robot delivery system, that travels in a loop along a defined path with an electric wire. This project found its inspiration in the robots used at industrial warehouses. The robot receives delivery instructions through a control base system to deliver or pick up packages from different workstations.
 
-This is the final undergraduate year projet, of the 2021 electronics and electrical engineering class.
+**This is the final undergraduate year projet, of the 2021 electronics and electrical engineering class.**
 
 I was the project learder of 5 teamates and my role was : 
 
@@ -41,3 +41,6 @@ Emitting an INFRARED signals, injected into an IR LED, by the robot's microcontr
 
 
 This is probably one of the best projects that I have made part of. Unfortunately, due to covid and access restrictions in our university, we were not able to complete all the project's components, but we have made big progress on it.  
+
+
+if you have any questions about this repo, feel free to contact me at my email adress:  zahrahafidabenslimane@gmail.com
