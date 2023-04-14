@@ -31,5 +31,5 @@ Emitting an INFRARED signals, injected into an IR LED, by the robot's microcontr
 
 #### Delivery System
 
-<img src="Images/robot-system.jpeg" width="780" height="540">
+<img src="Images/robot-system.jpeg" width="880" height="690">
 
