@@ -38,3 +38,6 @@ Emitting an INFRARED signals, injected into an IR LED, by the robot's microcontr
 
 #### Me in the lab haha
 <img src="Images/Lab.jpg" width="350" height="350">
+
+
+This is probably one of the best projects that I have made part of. Unfortunately, due to covid and access restrictions in our university, we were not able to complete all the project's components, but we have made big progress on it.  
