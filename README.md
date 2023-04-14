@@ -33,5 +33,5 @@ Emitting an INFRARED signals, injected into an IR LED, by the robot's microcontr
 
 ![alt text](Images/robot-system.jpeg)
 
-<img src="Images/robot-system.jpeg" width="1000">
+<img src="Images/robot-system.jpeg" width="150" height="280">
 
