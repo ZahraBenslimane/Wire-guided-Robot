@@ -31,5 +31,5 @@ Emitting an INFRARED signals, injected into an IR LED, by the robot's microcontr
 
 #### Delivery System
 
-![alt text](http://url//img.png)
+![alt text](https://github.com/ZahraBenslimane/Wire-guided-Robot/blob/main/Images/robot-system.jpeg)
 
